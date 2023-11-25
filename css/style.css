@@ -27,7 +27,7 @@ body {
     justify-content: flex-end;
     align-items: center;
     padding-right: 1.0em;
-    padding-top: 0.2%
+    padding-top: 0.3%
 }
 
 .conteudo-social a {
@@ -285,13 +285,13 @@ h1 {
     position: relative;
 }
 
-.conteudo endereco h2 {
+.conteudo-endereco h2 {
     color: #FFAF00;
     font-size: 50px;
     font-weight: 500;
 }
 
-.texto endereco {
+.texto-endereco {
     color: #A259F7;
     font-family: 'Courier New', Courier, monospace;
     background-color: #080324;
